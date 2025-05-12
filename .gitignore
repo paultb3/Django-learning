@@ -1,0 +1,8 @@
+# Ignorar cachés de Python
+__pycache__/
+
+# Ignorar carpeta de archivos subidos
+media/
+
+# Ignorar carpeta de archivos estáticos recolectados
+staticfiles/
